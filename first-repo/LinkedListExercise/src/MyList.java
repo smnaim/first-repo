@@ -1,8 +1,3 @@
-// single-line comment
-/* 
- * multi-line comment
- */
-
 class MyList {
     private Node head;
 
